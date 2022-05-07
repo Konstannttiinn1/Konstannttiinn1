@@ -5,4 +5,3 @@
 Technologies that I use
 
 <img alt="node-current" src="https://img.shields.io/node/v/python?color=green&label=Python&logo=python&logoColor=red">
-https://img.shields.io/badge/PostgreSQL-%3E%3D%2014.2-blue
