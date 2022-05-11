@@ -1,5 +1,5 @@
 <h1 align="center">Hi There, I am Konstantin</h1>
-<h1>Python developer from Saint-P.</h1>
+<h1> junior Python developer from Saint-Petersburg.</h1>
 
 
 Technologies that I use
