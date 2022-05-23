@@ -7,6 +7,5 @@ Technologies that I use
 <img alt="node-current" src="https://img.shields.io/badge/python-%3E%3D%203.8-yellow"> 
 
 
-![jetbrains-academy-certificate-6-11258301_page-0001_photo-resizer ru](https://user-images.githubusercontent.com/89107827/168292335-870c92ac-e25e-4fcd-9a00-da01dbf23070.jpg)
-
+<h1 align="center">![jetbrains-academy-certificate-6-11258301_page-0001_photo-resizer ru](https://user-images.githubusercontent.com/89107827/168292335-870c92ac-e25e-4fcd-9a00-da01dbf23070.jpg)</h1>
 
