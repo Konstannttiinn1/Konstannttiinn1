@@ -4,5 +4,5 @@
 
 Technologies that I use
 
-<img alt="node-current" src="https://img.shields.io/badge/python-%3E%3D%203.8-yellow">  <img alt="node-current" src="https://img.shields.io/badge/PostgreSQL-14.3-blue"> <img alt="node-current" src="https://img.shields.io/badge/SQL-2016-blue">)
+<img alt="node-current" src="https://img.shields.io/badge/python-%3E%3D%203.8-yellow">  <img alt="node-current" src="https://img.shields.io/badge/PostgreSQL-14.3-blue"> <img alt="node-current" src="https://img.shields.io/badge/SQL-2016-blue">
 
