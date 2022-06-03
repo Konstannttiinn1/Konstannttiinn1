@@ -8,5 +8,6 @@ Technologies that I use
 ![пп](https://user-images.githubusercontent.com/89107827/171874403-05a85837-0e59-4491-bcfc-5a7967444b29.jpg)
 
 
-![jetbrains-academy-certificate-6-11258301_page-0001_photo-resizer ru]([https://user-images.githubusercontent.com/89107827/168292335-870c92ac-e25e-4fcd-9a00-da01dbf23070.jpg](https://user-images.githubusercontent.com/89107827/171874403-05a85837-0e59-4491-bcfc-5a7967444b29.jpg))
+![jetbrains-academy-certificate-6-11258301_page-0001_photo-resizer ru]([https://user-images.githubusercontent.com/89107827/168292335-870c92ac-e25e-4fcd-9a00-da01dbf23070.jpg]
 
+![вава](https://user-images.githubusercontent.com/89107827/171874662-3417fe6c-8b56-4a90-a651-a19275e2156b.jpg)
