@@ -7,3 +7,4 @@ Technologies that I use
 
 - <a href="https://hyperskill.org/certificates/11258301-05b0-4a0e-a614-98d6d3d6b565.pdf">Certificate Python for Beginners</a>  
 - <a href="https://hyperskill.org/tracks">JetBrains Academy</a>.      
+  
